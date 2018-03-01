@@ -4,6 +4,7 @@
 - You view the final result: http://petsy-wetsy.herokuapp.com/
 - Alternately, you may run this app on localhost
 - It uses Ruby on Rails, HTML, CSS, Oauth, sessions, flash, MVC framework, testing
+- The assignment prompt is listed below.
 ##############################################################################################
 # bEtsy
 [b]Etsy will be an online store where a wide variety of products can be listed and sold by any user. In this project we will focus on reinforcing the major components of Rails, Model Validation, as well as introducing some more complex logic such as user authentication.
