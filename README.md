@@ -1,10 +1,9 @@
 # README
-- This is a student project completed at Ada Developers Academy with the assignment prompt listed below.
+- This is a student project completed at Ada Developers Academy.
 - It was completed by Andrea Valliere, Ting Wong, Erica Case, and Hyunji Kim through independent work and pair programming.
 - You view the final result: http://petsy-wetsy.herokuapp.com/
 - Alternately, you may run this app on localhost
 - It uses Ruby on Rails, HTML, CSS, Oauth, sessions, flash, MVC framework, testing
-- The assignment prompt is listed below.
 
 # The assignment:  bEtsy
 [b]Etsy will be an online store where a wide variety of products can be listed and sold by any user. In this project we will focus on reinforcing the major components of Rails, Model Validation, as well as introducing some more complex logic such as user authentication.
